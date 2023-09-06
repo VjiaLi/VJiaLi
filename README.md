@@ -1,16 +1,15 @@
-### Hi there 👋
+### 😄 Hello
+<table>
+<tr><td>
 
-<!--
-**VjiaLi/VJiaLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About me 关于我 -->
+### 🤺 About Me
 
-Here are some ideas to get you started:
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&emsp;&emsp;大家好，我是小陈的李同学。</p>
+<p>&emsp;&emsp;热爱编程、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;越努力越幸运。</p>
+<p><strong>&emsp;&emsp;The harder you work, the luckier you are.</strong></p>
+</td></tr>
