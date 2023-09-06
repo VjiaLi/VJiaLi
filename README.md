@@ -1,3 +1,4 @@
+  <div align="center">
 ### 😄 Hello
 <table>
 <tr><td>
@@ -13,3 +14,4 @@
 <p>&emsp;&emsp;越努力越幸运。</p>
 <p><strong>&emsp;&emsp;The harder you work, the luckier you are.</strong></p>
 </td></tr>
+</div>
