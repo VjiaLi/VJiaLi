@@ -52,6 +52,7 @@
 
 </td>
 </tr>
+</table>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=VjiaLi&theme=xcode" /> </div>
 
