@@ -12,7 +12,7 @@
 <p>&emsp;&emsp;热爱编程、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;越努力越幸运。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p><strong>&emsp;&emsp;Put your heart, mind, and soul into even your smallest acts. This is the secret of success.</strong></p>
 </td></tr>
 
 <tr><td>
