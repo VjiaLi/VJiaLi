@@ -16,8 +16,8 @@
 </td></tr>
 
 <tr><td>
+  
 ### 🏢 Learn Experience
-
 <img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2f/Jimei_University_logo.svg/1920px-Jimei_University_logo.svg.png"/>
 
 - [集美大学](https://www.jmu.edu.cn/) &emsp; 📌 2021-09-11 —— Now
