@@ -1,5 +1,5 @@
 
-### 😄 Hello
+# 😄 Hello
 <table>
 <tr><td>
 
@@ -50,4 +50,8 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
+</td>
+</tr>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=VjiaLi&theme=xcode" /> </div>
 
