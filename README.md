@@ -39,6 +39,7 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 🧠 计划学习
+
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
@@ -52,7 +53,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,twitter,pycharm,clion,git" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
