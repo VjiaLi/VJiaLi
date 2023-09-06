@@ -6,7 +6,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <p>&emsp;&emsp;大家好，我是小陈的李同学。</p>
 <p>&emsp;&emsp;热爱编程、读书、旅行。</p>
