@@ -10,7 +10,6 @@
 
 <p>&emsp;&emsp;大家好，我是小陈的李同学。</p>
 <p>&emsp;&emsp;热爱编程、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;越努力越幸运。</p>
 <p><strong>&emsp;&emsp;Put your heart, mind, and soul into even your smallest acts. This is the secret of success.</strong></p>
 </td></tr>
@@ -24,6 +23,8 @@
   
   - 专业：计算机科学与技术
   - 学号：202121331021
+  - 研究方向：多目标跟踪领域，边缘计算领域，
+  - 项目经历: 多目标跟踪算法研究，多传感器技术融合，自动驾驶相关，红外视频分析  
 
 </td>
 </tr>
