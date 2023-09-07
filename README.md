@@ -8,9 +8,10 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
-<p>&emsp;&emsp;大家好，我是小陈的李同学。</p>
-<p>&emsp;&emsp;热爱编程、读书、旅行。</p>
-<p>&emsp;&emsp;越努力越幸运。</p>
+<p>&emsp;&emsp;大家好，我是李同学😎</p>
+<p>&emsp;&emsp;热爱编程、学习、旅行⭐</p>
+<p>&emsp;&emsp;热爱学习的同时也很爱我的女朋友🤩</p>
+<p>&emsp;&emsp;越努力越幸运💫</p>
 <p><strong>&emsp;&emsp;Put your heart, mind, and soul into even your smallest acts. This is the secret of success.</strong></p>
 </td></tr>
 
