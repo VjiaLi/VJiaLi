@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m [**Weijia Li**](https://asc.xmu.edu.cn/t/liweijia), a MA.Sc student (2025) at [Xiamen University](https://www.xmu.edu.cn/).
+- I’m [**Weijia Li**](https://asc.xmu.edu.cn/t/liweijia), a MA.Sc student (2025) at [**Xiamen University**](https://www.xmu.edu.cn/).
 - I'm currently interested in `3D Cooperative Perception`.
 - How to reach me: `vjiali@stu.xmu.edu.cn`
 
